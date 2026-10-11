@@ -11,7 +11,7 @@ A simple C++ console program for a district office after a flood. The office has
 | File | Description |
 |---|---|
 | `relief_supply.cpp` | C++ source code |
-| `relief_supply_report.docx` | C++ source code |
+| `relief_supply_report.docx` | C++ report file |
 | `flowchart.png` | Flowchart of the program |
 | `README.md` | This file |
 
